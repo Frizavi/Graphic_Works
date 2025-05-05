@@ -8,6 +8,7 @@ uniform mat3 normalMatrix;
 out vec3 Normal;
 out vec3 FragPos;
 out vec4 FragColor;
+out vec3 viewPos;
 uniform vec3 yPos;
 uniform mat4 transorm;
 uniform mat4 model;
